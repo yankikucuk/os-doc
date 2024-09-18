@@ -15,6 +15,9 @@ Clean Linux installation from strach.
 - `sudo apt install curl`
 - `curl -fsSL https://bun.sh/install | bash`
 - `curl -fsSL https://deno.land/install.sh | sh`
+- `sudo apt install i3`
+- `sudo apt-get install feh`
+- `sudp apt-get install thunar` 
 
 ## Packages
 
