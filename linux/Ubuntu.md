@@ -59,6 +59,5 @@ Used world clocks.
 - Hong Kong
 - Sydney
 
----
 [^1]: This is optional for some utilities.
 [^2]: After `nodejs` installation via `brew`.
