@@ -1,6 +1,6 @@
 # Linux Installation Helper
 
-Clean Linux installation from strach.
+Clean Linux installation from strach. Always.
 
 ## Commands
 
